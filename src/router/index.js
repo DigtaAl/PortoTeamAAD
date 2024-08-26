@@ -4,7 +4,6 @@ import Members from "@/views/Members.vue";
 import Robots from "@/views/Robots.vue";
 import Achievement from "@/views/Achievement.vue";
 import News from "@/views/News.vue";
-import SplitHome from "@/views/SplitHome.vue";
 
 const routes = [
   {
@@ -31,11 +30,6 @@ const routes = [
     path: "/news",
     name: "News",
     component: News,
-  },
-  {
-    path: "/split",
-    name: "SplitHome",
-    component: SplitHome,
   },
 ];
 

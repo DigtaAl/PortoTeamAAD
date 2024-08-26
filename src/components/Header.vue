@@ -6,7 +6,7 @@
           <div class="logo flex flex-shrink-0 items-center text-white hover:text-[#E730CA] transition-colors">
             <div class="flex items-center space-x-2">
               <img class="hidden md:block logo-svg transform hover:transition-transform duration-700" style="transform-style: preserve-3d" src="@/assets/images/Logo_aad.png" alt="Al-Aadiyaat" width="52" height="44" />
-              <span class="text-white font-semibold hidden md:block text-2xl">AL-'AADIYAAT</span>
+              <span class="text-white font-semibold hidden md:block text-3xl">AL-'AADIYAAT</span>
             </div>
             <img class="md:hidden" src="@/assets/images/Logo_aad.png" alt="Al-Aadiyaat" width="37" height="31" />
           </div>
