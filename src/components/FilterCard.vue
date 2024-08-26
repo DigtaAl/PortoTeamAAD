@@ -24,7 +24,7 @@
           </div>
         </a>
         <a class="card" href="#">
-          <div class="card__background" style="background-image: url(https://dashboard.primakara.ac.id/uploads/small_contoh_program_c_03b2fad35c.jpeg)"></div>
+          <div class="card__background" style="background-image: url(https://toffeedev.com/wp-content/uploads/2023/03/contoh-dan-tugas-programmer.png)"></div>
           <div class="card__content">
             <p class="card__category">Role</p>
             <h3 class="card__heading">Program</h3>

@@ -17,7 +17,7 @@
             </div>
           </div>
           <h1 class="mt-6 max-w-lg text-4xl sm:text-7xl lg:text-6xl font-semibold text-white xl:text-7xl tracking-tight">AL-'AADIYAAT</h1>
-          <p class="text-[#FF33DE] sm:text-xl font-semibold tracking-tight max-w-lg">Kuda Perang Lapangan, Juara di Setiap Pertandingan!</p>
+          <p class="text-[#ff5e14] sm:text-xl font-semibold tracking-tight max-w-lg">Kuda Perang Lapangan, Juara di Setiap Pertandingan!</p>
           <p class="xl:text-lg font-medium leading-8 text-white max-w-[553px]">Humanoid Robosoccer Team From UNY</p>
         </div>
         <div class="relative flex justify-center items-center mt-16 sm:mt-24 lg:mt-0 lg:flex-shrink-0 lg:flex-grow">
