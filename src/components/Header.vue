@@ -1,5 +1,5 @@
 <template>
-  <nav class="max-w-[1240px] mx-auto">
+  <nav class="max-w-[1360px] mx-auto">
     <div class="px-4 pt-4 pt-0 min-[845px]:pt-9 transition-all">
       <div class="flex justify-between">
         <div class="flex">

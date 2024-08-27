@@ -90,7 +90,7 @@
         <div class="row">
           <div class="col-xl-6 col-lg-6 text-center text-lg-left">
             <div class="copyright-text">
-              <p>Copyright &copy; 2024, All Right Reserved <a href="https://codepen.io/anupkumar92/">Digta</a></p>
+              <p>Copyright &copy; 2024, All Right Reserved <a href="https://github.com/DigtaAl">Digta</a></p>
             </div>
           </div>
         </div>
@@ -105,7 +105,3 @@ export default {
   components: {},
 };
 </script>
-
-<style>
-@import "./../stylefooter.css";
-</style>
