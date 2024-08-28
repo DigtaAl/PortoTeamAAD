@@ -122,8 +122,8 @@
                         </div>
                       </div>
                     </div>
+                    <!-- <img src="./../assets/images/Robot4.png" class="character3d" /> -->
                   </div>
-                  <!-- <img src="./../assets/images/Robot4.png" class="character3d" /> -->
                 </div>
               </div>
             </div>
