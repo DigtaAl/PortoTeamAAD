@@ -1,16 +1,17 @@
 <template>
-  <div class="min-h-svh max-w-[1440px] mx-auto">
-    <HeaderNav />
-  </div>
+  <HeaderNav />
+  <TeamNow></TeamNow>
 </template>
 
 <script>
 import HeaderNav from "@/components/Header.vue";
+import TeamNow from "@/components/TeamNow.vue";
 
 export default {
   name: "Members",
   components: {
     HeaderNav,
+    TeamNow,
   },
 };
 </script>
