@@ -90,7 +90,7 @@
         <div class="row">
           <div class="col-xl-6 col-lg-6 text-center text-lg-left">
             <div class="copyright-text">
-              <p>Copyright &copy; 2024, All Right Reserved <a href="https://github.com/DigtaAl">Digta</a></p>
+              <p>Copyright &copy; 2024, Made with 🤍 by <a href="https://github.com/DigtaAl">Rifky Andigta Al-Fathir</a></p>
             </div>
           </div>
         </div>
@@ -103,5 +103,11 @@
 export default {
   name: "FooterBar",
   components: {},
+  mounted() {
+    const link1 = document.createElement("link");
+    link1.rel = "stylesheet";
+    link1.href = "https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css";
+    // document.head.appendChild(link1);
+  },
 };
 </script>
