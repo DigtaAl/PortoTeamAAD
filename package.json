@@ -12,7 +12,8 @@
     "scroll-out": "^2.2.12",
     "splitting": "^1.1.0",
     "vue": "^3.2.13",
-    "vue-router": "^4.0.3"
+    "vue-router": "^4.0.3",
+    "vue3-geolocation": "^1.0.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",

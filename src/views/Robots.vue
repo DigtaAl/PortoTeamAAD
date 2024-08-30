@@ -1,16 +1,17 @@
 <template>
-  <div class="min-h-svh max-w-[1440px] mx-auto">
-    <HeaderNav />
-  </div>
+  <HeaderNav />
+  <RobotList />
 </template>
 
 <script>
 import HeaderNav from "@/components/Header.vue";
+import RobotList from "@/components/RobotList.vue";
 
 export default {
   name: "Robots",
   components: {
     HeaderNav,
+    RobotList,
   },
 };
 </script>
