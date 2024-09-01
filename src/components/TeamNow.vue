@@ -43,6 +43,7 @@
           <div class="col-lg-8 text-center pb-5">
             <h2>Team</h2>
             <span class="bg-watermark2">Manager</span>
+            <p>Meet the masterminds behind keeping the team on track and driving us toward victory.</p>
           </div>
         </div>
         <div class="row mt-2 justify-content-center">
@@ -103,6 +104,7 @@
           <div class="col-lg-8 text-center pb-5">
             <h2>Role</h2>
             <span class="bg-watermark2">Program</span>
+            <p>Meet the minds behind the code, ready to bring ideas to life, one line at a time.</p>
           </div>
         </div>
         <div class="row mt-2">
@@ -313,6 +315,7 @@
           <div class="col-lg-8 text-center pb-5">
             <h2>Role</h2>
             <span class="bg-watermark2">Electrics</span>
+            <p>Say hello to the powerhouses, they are the spark that keeps our robots alive and thriving.</p>
           </div>
         </div>
         <div class="row mt-2">
@@ -523,6 +526,7 @@
           <div class="col-lg-8 text-center pb-5">
             <h2>Role</h2>
             <span class="bg-watermark2">Mechanics</span>
+            <p>Get ready to meet the muscle, precision, strength, and innovation all in one.</p>
           </div>
         </div>
         <div class="row mt-2">
