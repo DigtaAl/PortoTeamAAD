@@ -20,12 +20,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Hudzaifi Adzkar L</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Hudzaifi Adzkar L</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -57,12 +57,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Desfitra Nur A</h3>
+                  <div class="designation">Akuntansi '21</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Desfitra Nur A</h3>
+                  <div class="designation">Akuntansi '21</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -82,12 +82,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Qusnul Qotimah</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Qusnul Qotimah</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -107,23 +107,23 @@
             <p>Meet the minds behind the code, ready to bring ideas to life, one line at a time.</p>
           </div>
         </div>
-        <div class="row mt-2">
+        <div class="row mt-2 justify-content-center">
           <div class="col-md-3 col-sm-6">
             <div class="team-member mb-3">
               <div class="inner-box">
                 <div class="image-box">
                   <a href="#">
                     <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
+                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Hover Image" class="hover-img" />
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Rifky Andigta Al-Fathir</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Rifky Andigta Al-Fathir</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -143,12 +143,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Muhamad Fikri</h3>
+                  <div class="designation">Pend. Teknik Elektro '20</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Muhamad Fikri</h3>
+                  <div class="designation">Pend. Teknik Elektro '20</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -168,12 +168,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Naufal Nafi' N</h3>
+                  <div class="designation">Teknik Elektronika '20</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Naufal Nafi' N</h3>
+                  <div class="designation">Teknik Elektronika '20</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -193,12 +193,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Afif Ilham S.U</h3>
+                  <div class="designation">Teknik Elektronika '20</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Afif Ilham S.U</h3>
+                  <div class="designation">Teknik Elektronika '20</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -218,12 +218,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Kiflan Anugerah S</h3>
+                  <div class="designation">Pend. Teknik Informatika '21</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Kiflan Anugerah S</h3>
+                  <div class="designation">Pend. Teknik Informatika '21</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -243,12 +243,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Hafidh Rasyiq R</h3>
+                  <div class="designation">Pend. Teknik Elektronika '22</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Hafidh Rasyiq R</h3>
+                  <div class="designation">Pend. Teknik Elektronika '22</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -258,6 +258,7 @@
               </div>
             </div>
           </div>
+
           <div class="col-md-3 col-sm-6">
             <div class="team-member mb-3">
               <div class="inner-box">
@@ -268,37 +269,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Shafa Feby A</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Shafa Feby A</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -318,7 +294,7 @@
             <p>Say hello to the powerhouses, they are the spark that keeps our robots alive and thriving.</p>
           </div>
         </div>
-        <div class="row mt-2">
+        <div class="row mt-2 justify-content-center">
           <div class="col-md-3 col-sm-6">
             <div class="team-member mb-3">
               <div class="inner-box">
@@ -329,12 +305,38 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Cikal Ardhiansyah</h3>
+                  <div class="designation">Pend. Teknik Elektro '22</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Cikal Ardhiansyah</h3>
+                  <div class="designation">Pend. Teknik Elektro '22</div>
+                  <div class="social">
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-3 col-sm-6">
+            <div class="team-member mb-3">
+              <div class="inner-box">
+                <div class="image-box">
+                  <a href="#">
+                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
+                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
+                  </a>
+                </div>
+                <div class="desc-content">
+                  <h3>Muhamad Yoga P</h3>
+                  <div class="designation">Pend. Teknik Elektro '20</div>
+                </div>
+                <div class="hover-content">
+                  <h3>Muhamad Yoga P</h3>
+                  <div class="designation">Pend. Teknik Elektro '20</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -354,12 +356,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Hudzaifi Adzkar L</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Hudzaifi Adzkar L</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -379,12 +381,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Amara Livia A.P</h3>
+                  <div class="designation">Pend. Teknik Elektro '22</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Amara Livia A.P</h3>
+                  <div class="designation">Pend. Teknik Elektro '22</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -404,12 +406,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Fahreizain A.R</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Fahreizain A.R</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -429,87 +431,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Veri Saputra</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Veri Saputra</h3>
+                  <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -529,7 +456,7 @@
             <p>Get ready to meet the muscle, precision, strength, and innovation all in one.</p>
           </div>
         </div>
-        <div class="row mt-2">
+        <div class="row mt-2 justify-content-center">
           <div class="col-md-3 col-sm-6">
             <div class="team-member mb-3">
               <div class="inner-box">
@@ -540,12 +467,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Bagus Ari Wibowo</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Bagus Ari Wibowo</h3>
+                  <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -565,12 +492,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Muhammad Farid K</h3>
+                  <div class="designation">Teknik Mesin '22</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Muhammad Farid K</h3>
+                  <div class="designation">Teknik Mesin '22</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -590,12 +517,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Yusuf Ade P</h3>
+                  <div class="designation">Teknik Mesin '22</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Yusuf Ade P</h3>
+                  <div class="designation">Teknik Mesin '22</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
@@ -615,112 +542,12 @@
                   </a>
                 </div>
                 <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Rizal Hermawan S</h3>
+                  <div class="designation">Pend. Teknik Mesin '23</div>
                 </div>
                 <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                  <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-instagram"></i></a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-6">
-            <div class="team-member mb-3">
-              <div class="inner-box">
-                <div class="image-box">
-                  <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
-                  </a>
-                </div>
-                <div class="desc-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
-                </div>
-                <div class="hover-content">
-                  <h3>Lorem Ipsum</h3>
-                  <div class="designation">Simply dummy text</div>
+                  <h3>Rizal Hermawan S</h3>
+                  <div class="designation">Pend. Teknik Mesin '23</div>
                   <div class="social">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>

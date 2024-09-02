@@ -131,7 +131,7 @@
       </div>
     </div>
   </section>
-  <AboutUs data-aos="zoom-out"></AboutUs>
+  <AboutUs></AboutUs>
 </template>
 
 <script>
