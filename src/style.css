@@ -260,7 +260,7 @@ ul {
   font-size: 20px;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .footer-social-icon a {
   color: #fff;
@@ -282,6 +282,15 @@ ul {
 }
 .google-bg {
   background: #dd4b39;
+}
+.github-bg {
+  background: #4f4e4d;
+}
+.instagram-bg {
+  background: #ac1e8d;
+}
+.tiktok-bg {
+  background: #000000;
 }
 .footer-widget-heading h3 {
   color: #fff;

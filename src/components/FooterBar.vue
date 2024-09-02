@@ -39,9 +39,21 @@
               <div class="footer-widget">
                 <div class="footer-social-icon">
                   <span>Follow us</span>
-                  <a href="#"><i class="fab fa-facebook-f facebook-bg"></i></a>
-                  <a href="#"><i class="fab fa-twitter twitter-bg"></i></a>
-                  <a href="#"><i class="fab fa-google-plus-g google-bg"></i></a>
+                  <a href="https://github.com/aadhumanoid" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-github github-bg"></i>
+                  </a>
+                  <a href="https://www.instagram.com/al_aadiyaatuny?igsh=MW54eTc0YjZ3dTV2eA==" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-instagram instagram-bg"></i>
+                  </a>
+                  <a href="https://www.tiktok.com/@alaadiyaat.krsbih?is_from_webapp=1&sender_device=pc" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-tiktok tiktok-bg"></i>
+                  </a>
+                  <a href="#" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-twitter twitter-bg"></i>
+                  </a>
+                  <a href="#" target="_blank" rel="noopener noreferrer">
+                    <i class="fab fa-google-plus-g google-bg"></i>
+                  </a>
                 </div>
               </div>
             </div>
@@ -51,30 +63,26 @@
                   <h3>Useful Links</h3>
                 </div>
                 <ul>
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">about</a></li>
-                  <li><a href="#">services</a></li>
-                  <li><a href="#">portfolio</a></li>
-                  <li><a href="#">Contact</a></li>
-                  <li><a href="#">About us</a></li>
-                  <li><a href="#">Our Services</a></li>
-                  <li><a href="#">Expert Team</a></li>
+                  <li><a href="/">Home</a></li>
+                  <li><a href="/members">Members</a></li>
+                  <li><a href="/robots">Robots</a></li>
+                  <li><a href="/achievement">Achievement</a></li>
                   <li><a href="#">Contact us</a></li>
-                  <li><a href="#">Latest News</a></li>
+                  <li><a href="/">Latest News</a></li>
                 </ul>
               </div>
             </div>
             <div class="col-xl-4 col-lg-4 col-md-6 mb-50">
               <div class="footer-widget">
                 <div class="footer-widget-heading">
-                  <h3>Subscribe</h3>
+                  <h3>We grateful for your input</h3>
                 </div>
                 <div class="footer-text mb-25">
-                  <p>Don’t miss to subscribe to our new feeds, kindly fill the form below.</p>
+                  <p>Don’t forget to provide feedback to our team by simply filling out the form below.</p>
                 </div>
                 <div class="subscribe-form">
                   <form action="#">
-                    <input type="text" placeholder="Email Address" />
+                    <input type="text" placeholder="Message" />
                     <button><i class="fab fa-telegram-plane"></i></button>
                   </form>
                 </div>

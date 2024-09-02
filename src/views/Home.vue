@@ -3,9 +3,9 @@
     <HeaderNav data-aos="fade-down"></HeaderNav>
     <Hero></Hero>
     <VideoCard data-aos="fade-right"></VideoCard>
-    <FilterCard data-aos="fade-left"></FilterCard>
-    <News data-aos="fade-right"></News>
-    <FooterBar data-aos="fade-left"></FooterBar>
+    <FilterCard></FilterCard>
+    <News></News>
+    <FooterBar></FooterBar>
   </div>
 </template>
 

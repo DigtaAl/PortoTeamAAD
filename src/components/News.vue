@@ -4,34 +4,48 @@
   </div>
   <div class="cardsnews mb-6">
     <div class="cardnews content">
-      <div class="cardnews-content">
-        <div class="cardnews-img">
-          <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80" alt="Gamer" />
+      <a href="https://www.uny.ac.id/id/berita/al-aadiyaat-uny-raih-juara-2-kontes-robot-sepak-bola-indonesia-humanoid-tingkat-nasional" class="cardnews-link" target="_blank" rel="noopener noreferrer">
+        <div class="cardnews-content">
+          <div class="cardnews-img">
+            <img src="./../assets/images/News/Berita1.jpg" alt="KRI24" />
+          </div>
+          <div class="cardnews-label">KRI24</div>
+          <div class="cardnews-title">Al-‘Aadiyaat UNY Raih Juara 2 Kontes Robot Sepak Bola Indonesia Humanoid Tingkat Nasional Tahun 2024</div>
         </div>
-        <div class="cardnews-label">E-Sports</div>
-        <div class="cardnews-title">Fnatic raises $19 million, shakes up leadership team</div>
-      </div>
+      </a>
     </div>
     <div class="cardnews content">
-      <div class="cardnews-content">
-        <div class="cardnews-img">
-          <img src="https://images.unsplash.com/photo-1547394765-185e1e68f34e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80" alt="keyboard" />
+      <a href="https://www.beritajogja.com/news/181411068/robot-al-aadiyaat-uny-mulai-mengukir-prestasi-di-kontes-robot-indonesia-nasional-2023" class="cardnews-link" target="_blank" rel="noopener noreferrer">
+        <div class="cardnews-content">
+          <div class="cardnews-img">
+            <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/18/2023/06/27/WhatsApp-Image-2023-06-27-at-101306-162902739.jpeg" alt="KRI23" />
+          </div>
+          <div class="cardnews-label">KRI23</div>
+          <div class="cardnews-title">Berita Jogja: Robot Al-‘Aadiyaat UNY Mulai Mengukir Prestasi Di Kontes Robot Indonesia Nasional 2023</div>
         </div>
-        <div class="cardnews-label">Technology</div>
-        <div class="cardnews-title">Google Stadia: The Future of Gaming</div>
-      </div>
+      </a>
     </div>
     <div class="cardnews content">
-      <div class="cardnews-content">
-        <div class="cardnews-img">
-          <img src="https://images.unsplash.com/photo-1519326844852-704caea5679e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2034&q=80" alt="Controller" />
+      <a href="https://jateng.antaranews.com/berita/232407/uny-raih-juara-umum-kri-2019-regional-iii" class="cardnews-link" target="_blank" rel="noopener noreferrer">
+        <div class="cardnews-content">
+          <div class="cardnews-img">
+            <img src="https://img.antaranews.com/cache/1200x800/2019/04/27/juara-umum.jpg.webp" alt="KRI19" />
+          </div>
+          <div class="cardnews-label">KRI19</div>
+          <div class="cardnews-title">Antara Jateng: UNY raih juara umum KRI 2019 Regional III</div>
         </div>
-        <div class="cardnews-label">Consoles</div>
-        <div class="cardnews-title">PS5 won't launch before mid-2020</div>
-      </div>
+      </a>
     </div>
-    <div class="cardnews form">
-      <div class="form-title">Sign Up</div>
+    <div class="cardnews content">
+      <a href="https://www.uny.ac.id/id/berita/kemenangan-gemilang-uny-robotics-team-di-kontes-robot-indonesia-2024" class="cardnews-link" target="_blank" rel="noopener noreferrer">
+        <div class="cardnews-content">
+          <div class="cardnews-img">
+            <img src="https://www.uny.ac.id/sites/default/files/styles/large/public/2024-07/WhatsApp%20Image%202024-07-23%20at%2020.43.50.jpeg?itok=PGCoBhjz" alt="Robotika" />
+          </div>
+          <div class="cardnews-label">Robotika UNY</div>
+          <div class="cardnews-title">Kemenangan Gemilang UNY Robotics Team di Kontes Robot Indonesia 2024</div>
+        </div>
+      </a>
     </div>
   </div>
 </template>
@@ -188,5 +202,12 @@ export default {
 .cardnews:hover .form-title:before {
   filter: blur(3px);
   opacity: 0.7;
+}
+.cardnews-link {
+  display: block; /* Pastikan link mengambil seluruh area */
+  width: 100%;
+  height: 100%;
+  text-decoration: none; /* Hapus underline pada link */
+  color: inherit; /* Warna teks mengikuti warna teks default */
 }
 </style>
