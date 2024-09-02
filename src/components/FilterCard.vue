@@ -1,5 +1,4 @@
 <template>
-  <!-- <section class="my-20 sm:my-40"> -->
   <section class="hero-section">
     <div class="card-grid">
       <a class="card" href="#">

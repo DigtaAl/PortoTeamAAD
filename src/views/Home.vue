@@ -1,9 +1,11 @@
 <template>
-  <HeaderNav />
-  <Hero></Hero>
-  <VideoCard></VideoCard>
-  <FilterCard></FilterCard>
-  <FooterBar></FooterBar>
+  <div>
+    <HeaderNav data-aos="fade-down"></HeaderNav>
+    <Hero></Hero>
+    <VideoCard data-aos="fade-right"></VideoCard>
+    <FilterCard data-aos="fade-left"></FilterCard>
+    <FooterBar data-aos="fade-right"></FooterBar>
+  </div>
 </template>
 
 <script>

@@ -122,7 +122,6 @@
                         </div>
                       </div>
                     </div>
-                    <!-- <img src="./../assets/images/Robot4.png" class="character3d" /> -->
                   </div>
                 </div>
               </div>
@@ -132,20 +131,16 @@
       </div>
     </div>
   </section>
-  <section class="light mt-60">
-    <header class="title">
-      <h2>About <span>Us</span></h2>
-      <p>
-        Tim Al-‘Aadiyaat dari Universitas Negeri Yogyakarta (UNY) adalah tim robot humanoid yang telah menunjukkan prestasi luar biasa di berbagai ajang Kontes Robot Indonesia (KRI). Dengan filosofi sebagai "kuda perang yang gagah dan
-        lincah," tim ini terdiri dari 4-5 robot humanoid yang memiliki keunikan masing-masing, namun berbagi tujuan yang sama untuk meraih kemenangan.
-      </p>
-    </header>
-  </section>
+  <AboutUs data-aos="zoom-out"></AboutUs>
 </template>
 
 <script>
+import AboutUs from "@/components/AboutUs.vue";
+
 export default {
   name: "Hero",
-  components: {},
+  components: {
+    AboutUs,
+  },
 };
 </script>
