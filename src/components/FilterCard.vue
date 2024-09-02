@@ -136,7 +136,6 @@ export default {
   background-color: #d11a2a;
 }
 
-/* Typography */
 body {
   font-family: "Roboto", sans-serif;
   background-color: #f4f4f9;
