@@ -3,7 +3,6 @@ import Home from "@/views/Home.vue";
 import Members from "@/views/Members.vue";
 import Robots from "@/views/Robots.vue";
 import Achievement from "@/views/Achievement.vue";
-import News from "@/views/News.vue";
 import NotFound from "@/components/NotFound.vue";
 
 const routes = [
@@ -26,11 +25,6 @@ const routes = [
     path: "/achievement",
     name: "Achievement",
     component: Achievement,
-  },
-  {
-    path: "/news",
-    name: "News",
-    component: News,
   },
   {
     path: "/:pathMatch(.*)*",

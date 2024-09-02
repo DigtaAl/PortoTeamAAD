@@ -27,9 +27,9 @@
                   <h3>Hudzaifi Adzkar L</h3>
                   <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                   </div>
                 </div>
               </div>
@@ -64,9 +64,9 @@
                   <h3>Desfitra Nur A</h3>
                   <div class="designation">Akuntansi '21</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                   </div>
                 </div>
               </div>
@@ -89,9 +89,9 @@
                   <h3>Qusnul Qotimah</h3>
                   <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                   </div>
                 </div>
               </div>
@@ -125,9 +125,9 @@
                   <h3>Rifky Andigta Al-Fathir</h3>
                   <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
                   </div>
                 </div>
               </div>
@@ -868,7 +868,7 @@ section .cards .card:nth-child(3)::before {
   bottom: 0px;
   width: 100%;
   padding: 25px 20px;
-  background: #3f51b5;
+  background: #ff5e14;
   transform: translateX(-100%);
   color: #ffffff;
   opacity: 0;

@@ -57,16 +57,6 @@
           >
             Achievement
           </router-link>
-          <router-link
-            to="/news"
-            :class="{
-              'text-[#ff5e14] font-bold before:h-[1.5px] before:w-full before:bg-white': $route.path === '/news',
-              'text-white hover:text-[#ff5e14] font-bold': $route.path !== '/news',
-            }"
-            class="relative inline-flex items-center before:content-[''] before:absolute before:bottom-2.5 before:left-1/2 before:transform before:-translate-x-1/2 before:h-[1.5px] before:w-0 before:bg-white before:transition-all before:hover:w-full before:duration-500"
-          >
-            News
-          </router-link>
         </div>
       </div>
     </div>

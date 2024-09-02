@@ -113,7 +113,7 @@ body {
 /* FilterCard */
 .hero-section {
   align-items: flex-start;
-  background-image: linear-gradient(15deg, #131313 0%, #131313 150%);
+  background-image: linear-gradient(15deg, #131313 0%, #131313 100%);
   display: flex;
   min-height: 100%;
   justify-content: center;
@@ -836,4 +836,44 @@ borderbat *::after {
     --finger-r-3: 91.3% 63.3%;
     --finger-r-4: 91% 75.1%;
   }
+}
+
+/* Container to center text */
+.newstext-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-bottom: 20px; /* Tambahan untuk memberi jarak ke elemen di bawah */
+}
+
+/* Styling untuk teks dan garis */
+.newstext {
+  color: #f05907;
+  font-family: "Poppins", sans-serif; /* Ganti font agar terlihat lebih modern */
+  font-size: 1.5rem; /* Perbesar ukuran teks */
+  font-weight: bold; /* Buat teks lebih tebal */
+  text-transform: uppercase; /* Membuat semua huruf kapital */
+  letter-spacing: 1.5px; /* Menambah jarak antar huruf */
+  position: relative;
+  display: inline-block;
+}
+
+.newstext:after,
+.newstext:before {
+  position: absolute;
+  content: "";
+  width: 50px;
+  height: 3px;
+  background: #f05907;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.newstext:after {
+  right: -60px;
+}
+
+.newstext:before {
+  left: -60px;
 }

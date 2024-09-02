@@ -131,7 +131,7 @@
       </div>
     </div>
   </section>
-  <AboutUs></AboutUs>
+  <AboutUs />
 </template>
 
 <script>
