@@ -10,7 +10,7 @@
     <div class="containerrobot">
       <div class="cardrobot">
         <div class="Box">
-          <img src="./../assets/images/RobotAssembly.jpg" />
+          <img src="./../assets/images/Robot/Robot1.png" />
         </div>
         <div class="details">
           <strong>Lorem ipsum dolor</strong>
@@ -34,7 +34,7 @@
       </div>
       <div class="cardrobot">
         <div class="Box">
-          <img src="./../assets/images/RobotAssembly.jpg" />
+          <img src="./../assets/images/Robot/Robot3.png" />
         </div>
         <div class="details">
           <strong>Lorem ipsum dolor</strong>
@@ -46,7 +46,7 @@
       </div>
       <div class="cardrobot">
         <div class="Box">
-          <img src="./../assets/images/RobotAssembly.jpg" />
+          <img src="./../assets/images/Robot/Robot4.png" />
         </div>
         <div class="details">
           <strong>Lorem ipsum dolor</strong>
