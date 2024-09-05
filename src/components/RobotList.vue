@@ -13,7 +13,7 @@
           <img src="./../assets/images/Robot/Robot1.png" />
         </div>
         <div class="details">
-          <strong>Lorem ipsum dolor</strong>
+          <strong>Robot 1</strong>
           <p>
             consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -25,7 +25,7 @@
           <img src="./../assets/images/RobotAssembly.jpg" />
         </div>
         <div class="details">
-          <strong>Lorem ipsum dolor</strong>
+          <strong>Robot 2</strong>
           <p>
             consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -37,7 +37,7 @@
           <img src="./../assets/images/Robot/Robot3.png" />
         </div>
         <div class="details">
-          <strong>Lorem ipsum dolor</strong>
+          <strong>Robot 3</strong>
           <p>
             consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -49,7 +49,7 @@
           <img src="./../assets/images/Robot/Robot4.png" />
         </div>
         <div class="details">
-          <strong>Lorem ipsum dolor</strong>
+          <strong>Robot 4</strong>
           <p>
             consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
@@ -61,7 +61,7 @@
           <img src="./../assets/images/RobotAssembly.jpg" />
         </div>
         <div class="details">
-          <strong>Lorem ipsum dolor</strong>
+          <strong>Robot 5</strong>
           <p>
             consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
             reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
