@@ -37,11 +37,13 @@
           <img src="./../assets/images/Robot/Robot3.png" />
         </div>
         <div class="details">
-          <strong>Robot 3</strong>
-          <p>
-            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+          <strong style="font-weight: bold">Robot 3 (Pono)</strong>
+          <p class="mb-6">
+            Pono, a humanoid robot by the Al-‘Aadiyaat team at Universitas Negeri Yogyakarta (UNY), showcases advanced robotics engineering. Built to mimic human movements with high efficiency, it’s designed for various applications.
           </p>
+          <strong class="mt-6" style="font-weight: bold">Specification</strong>
+          <p>Weight : 4 kg</p>
+          <p>Height : 61.5 cm</p>
         </div>
       </div>
       <div class="cardrobot">

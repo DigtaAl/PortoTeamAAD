@@ -29,7 +29,7 @@
                   <div class="social">
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                   </div>
                 </div>
               </div>
@@ -66,7 +66,7 @@
                   <div class="social">
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                   </div>
                 </div>
               </div>
@@ -91,7 +91,7 @@
                   <div class="social">
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                   </div>
                 </div>
               </div>
@@ -127,7 +127,7 @@
                   <div class="social">
                     <a href="#"><i class="fab fa-instagram"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                   </div>
                 </div>
               </div>
@@ -150,7 +150,7 @@
                   <h3>Muhamad Fikri</h3>
                   <div class="designation">Pend. Teknik Elektro '20</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -175,7 +175,7 @@
                   <h3>Naufal Nafi' N</h3>
                   <div class="designation">Teknik Elektronika '20</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -200,7 +200,7 @@
                   <h3>Afif Ilham S.U</h3>
                   <div class="designation">Teknik Elektronika '20</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -225,7 +225,7 @@
                   <h3>Kiflan Anugerah S</h3>
                   <div class="designation">Pend. Teknik Informatika '21</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -250,7 +250,7 @@
                   <h3>Hafidh Rasyiq R</h3>
                   <div class="designation">Pend. Teknik Elektronika '22</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -276,7 +276,7 @@
                   <h3>Shafa Feby A</h3>
                   <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -312,7 +312,7 @@
                   <h3>Cikal Ardhiansyah</h3>
                   <div class="designation">Pend. Teknik Elektro '22</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -338,7 +338,7 @@
                   <h3>Muhamad Yoga P</h3>
                   <div class="designation">Pend. Teknik Elektro '20</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -363,7 +363,7 @@
                   <h3>Hudzaifi Adzkar L</h3>
                   <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -388,7 +388,7 @@
                   <h3>Amara Livia A.P</h3>
                   <div class="designation">Pend. Teknik Elektro '22</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -413,7 +413,7 @@
                   <h3>Fahreizain A.R</h3>
                   <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -438,7 +438,7 @@
                   <h3>Veri Saputra</h3>
                   <div class="designation">Pend. Teknik Elektro '23</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -474,7 +474,7 @@
                   <h3>Bagus Ari Wibowo</h3>
                   <div class="designation">Pend. Teknik Elektro '21</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -499,7 +499,7 @@
                   <h3>Muhammad Farid K</h3>
                   <div class="designation">Teknik Mesin '22</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -524,7 +524,7 @@
                   <h3>Yusuf Ade P</h3>
                   <div class="designation">Teknik Mesin '22</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
@@ -549,7 +549,7 @@
                   <h3>Rizal Hermawan S</h3>
                   <div class="designation">Pend. Teknik Mesin '23</div>
                   <div class="social">
-                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-tiktok"></i></a>
                     <a href="#"><i class="fab fa-twitter"></i></a>
                     <a href="#"><i class="fab fa-instagram"></i></a>
                   </div>
