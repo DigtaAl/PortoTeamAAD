@@ -13,11 +13,11 @@
           <img src="./../assets/images/Robot/Robot1.png" />
         </div>
         <div class="details">
-          <strong>Robot 1</strong>
-          <p>
-            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          </p>
+          <strong style="font-weight: bold">Robot 1 (Mono)</strong>
+          <p class="mb-6">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <strong class="mt-6" style="font-weight: bold">Specification</strong>
+          <p>Weight : 4,4 kg</p>
+          <p>Height : 57 cm</p>
         </div>
       </div>
       <div class="cardrobot">
@@ -25,11 +25,11 @@
           <img src="./../assets/images/RobotAssembly.jpg" />
         </div>
         <div class="details">
-          <strong>Robot 2</strong>
-          <p>
-            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          </p>
+          <strong style="font-weight: bold">Robot 2 (Ujang)</strong>
+          <p class="mb-6">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <strong class="mt-6" style="font-weight: bold">Specification</strong>
+          <p>Weight : 4,85 kg</p>
+          <p>Height : 61,5 cm</p>
         </div>
       </div>
       <div class="cardrobot">
@@ -51,11 +51,11 @@
           <img src="./../assets/images/Robot/Robot4.png" />
         </div>
         <div class="details">
-          <strong>Robot 4</strong>
-          <p>
-            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          </p>
+          <strong style="font-weight: bold">Robot 4 (Arno)</strong>
+          <p class="mb-6">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <strong class="mt-6" style="font-weight: bold">Specification</strong>
+          <p>Weight : 3,5 kg</p>
+          <p>Height : 56 cm</p>
         </div>
       </div>
       <div class="cardrobot">
@@ -63,11 +63,11 @@
           <img src="./../assets/images/RobotAssembly.jpg" />
         </div>
         <div class="details">
-          <strong>Robot 5</strong>
-          <p>
-            consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-            reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-          </p>
+          <strong style="font-weight: bold">Robot 5 (BayMax)</strong>
+          <p class="mb-6">consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <strong class="mt-6" style="font-weight: bold">Specification</strong>
+          <p>Weight : 3,2 kg</p>
+          <p>Height : 63,5 cm</p>
         </div>
       </div>
     </div>
