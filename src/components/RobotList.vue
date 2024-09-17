@@ -143,7 +143,6 @@ section {
   font-family: "Poppins", sans-serif;
   font-weight: 300;
   font-style: normal;
-  /* padding-block: min(20vh, 6rem); */
   text-align: center;
   width: calc(min(90rem, 90%));
   margin-inline: auto;
