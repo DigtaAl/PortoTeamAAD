@@ -15,8 +15,8 @@
               <div class="inner-box">
                 <div class="image-box">
                   <a href="#">
-                    <img src="./../assets/images/member/IMG_6667.jpg" alt="Image" class="main-img" />
-                    <img src="./../assets/images/member/IMG_6674.jpg" alt="Hover Image" class="hover-img" />
+                    <img src="./../assets/images/member/lead1.png" alt="Image" class="main-img" />
+                    <img src="./../assets/images/member/lead2.png" alt="Hover Image" class="hover-img" />
                   </a>
                 </div>
                 <div class="desc-content">

@@ -10,6 +10,10 @@
   --width-container: 1300px;
 }
 
+::-webkit-scrollbar {
+  width: 0px;
+}
+
 html,
 body {
   height: 100%;
