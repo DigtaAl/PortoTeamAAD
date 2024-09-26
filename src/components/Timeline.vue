@@ -4,9 +4,12 @@
       <ul>
         <li>
           <div class="timeline-content">
-            <h3 class="date">1 - 6th july, 2024</h3>
-            <h1>KRI 2024 ( Nasional )</h1>
-            <p>Acara ini diadakan secara offline di Universitas Muhammadiyah Surakarta, dan tim berhasil meraih juara 2 tingkat nasional dalam kompetisi tersebut. Informasi lebih lanjut dapat dilihat di sini.</p>
+            <h3 class="date">1 - 6th July, 2024</h3>
+            <h1>KRI 2024 (Nasional)</h1>
+            <p>
+              Acara ini diadakan secara offline di Universitas Muhammadiyah Surakarta, dan tim berhasil meraih juara 2 tingkat nasional dalam kompetisi tersebut. Informasi lebih lanjut dapat dilihat
+              <router-link to="/history">di sini</router-link>.
+            </p>
             <img src="./../assets/images/AAD.jpg" alt="KRI 2024 (Nasional)" />
           </div>
         </li>
