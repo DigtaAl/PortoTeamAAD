@@ -4,6 +4,7 @@ import Members from "@/views/Members.vue";
 import Robots from "@/views/Robots.vue";
 import Achievement from "@/views/Achievement.vue";
 import NotFound from "@/components/NotFound.vue";
+import History from "@/components/History.vue";
 
 const routes = [
   {
@@ -25,6 +26,11 @@ const routes = [
     path: "/achievement",
     name: "Achievement",
     component: Achievement,
+  },
+  {
+    path: "/history",
+    name: "History",
+    component: History,
   },
   {
     path: "/:pathMatch(.*)*",
