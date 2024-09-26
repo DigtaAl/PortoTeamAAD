@@ -28,7 +28,7 @@ const routes = [
     component: Achievement,
   },
   {
-    path: "/history",
+    path: "/history/:year",
     name: "History",
     component: History,
   },
