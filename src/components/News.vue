@@ -10,7 +10,7 @@
             <img src="./../assets/images/News/Berita1.jpg" alt="KRI24" />
           </div>
           <div class="cardnews-label">KRI24</div>
-          <div class="cardnews-title">Al-‘Aadiyaat UNY Raih Juara 2 Kontes Robot Sepak Bola Indonesia Humanoid Tingkat Nasional Tahun 2024</div>
+          <div class="cardnews-title hidden md:block">Al-‘Aadiyaat UNY Raih Juara 2 Kontes Robot Sepak Bola Indonesia Humanoid Tingkat Nasional Tahun 2024</div>
         </div>
       </a>
     </div>
@@ -21,7 +21,7 @@
             <img src="https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p2/18/2023/06/27/WhatsApp-Image-2023-06-27-at-101306-162902739.jpeg" alt="KRI23" />
           </div>
           <div class="cardnews-label">KRI23</div>
-          <div class="cardnews-title">Berita Jogja: Robot Al-‘Aadiyaat UNY Mulai Mengukir Prestasi Di Kontes Robot Indonesia Nasional 2023</div>
+          <div class="cardnews-title hidden md:block">Berita Jogja: Robot Al-‘Aadiyaat UNY Mulai Mengukir Prestasi Di Kontes Robot Indonesia Nasional 2023</div>
         </div>
       </a>
     </div>
@@ -32,7 +32,7 @@
             <img src="https://img.antaranews.com/cache/1200x800/2019/04/27/juara-umum.jpg.webp" alt="KRI19" />
           </div>
           <div class="cardnews-label">KRI19</div>
-          <div class="cardnews-title">Antara Jateng: UNY raih juara umum KRI 2019 Regional III</div>
+          <div class="cardnews-title hidden md:block">Antara Jateng: UNY raih juara umum KRI 2019 Regional III</div>
         </div>
       </a>
     </div>
@@ -43,7 +43,7 @@
             <img src="https://www.uny.ac.id/sites/default/files/styles/large/public/2024-07/WhatsApp%20Image%202024-07-23%20at%2020.43.50.jpeg?itok=PGCoBhjz" alt="Robotika" />
           </div>
           <div class="cardnews-label">Robotika UNY</div>
-          <div class="cardnews-title">Kemenangan Gemilang UNY Robotics Team di Kontes Robot Indonesia 2024</div>
+          <div class="cardnews-title hidden md:block">Kemenangan Gemilang UNY Robotics Team di Kontes Robot Indonesia 2024</div>
         </div>
       </a>
     </div>

@@ -126,22 +126,35 @@ body {
 
 .card-grid {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
-  grid-column-gap: var(--spacing-l);
+  grid-template-columns: repeat(1, 1fr); /* Default to a single column */
+  grid-column-gap: var(--spacing-l); /* Use your existing spacing variable */
   grid-row-gap: var(--spacing-l);
-  max-width: var(--width-container);
+  max-width: var(--width-container); /* Maintain your existing max-width */
   width: 100%;
 }
 
+/* Responsive styles */
 @media (min-width: 540px) {
   .card-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 1fr); /* Two columns for medium devices */
   }
 }
 
 @media (min-width: 960px) {
   .card-grid {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4, 1fr); /* Four columns for larger devices */
+  }
+}
+
+@media (max-width: 768px) {
+  .card {
+    height: 200px; /* Adjust height for smaller devices */
+  }
+}
+
+@media (max-width: 480px) {
+  .card {
+    height: 150px; /* Further adjust for very small devices */
   }
 }
 
@@ -377,7 +390,6 @@ ul {
 .cardvideo {
   position: absolute;
   bottom: -43%;
-  /* right: 5%; */
   left: 5%;
   text-align: center;
   color: #272243;
@@ -385,11 +397,11 @@ ul {
   background: #fff;
   border-radius: 10px;
   box-shadow: 0 0 20px 20px rgba(0, 0, 0, 0.03);
-  width: 320px;
+  max-width: 320px; /* Default max width */
   overflow: hidden;
-  -webkit-animation: updown 3s ease 6;
   animation: updown 3s ease 6;
 }
+
 .cardvideo::before {
   content: "";
   border-width: 20px;
@@ -402,15 +414,34 @@ ul {
   top: 55%;
   left: 50%;
   z-index: 2;
-  transform: translatex(calc(-50% + 15px));
+  transform: translateX(calc(-50% + 15px));
   filter: drop-shadow(5px 5px 4px #000);
   pointer-events: none;
 }
+
 .cardvideo h1 {
   margin: 0;
   padding: 10px;
   font-size: 16px;
 }
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .desktop-only {
+    display: none;
+  }
+
+  .cardvideo {
+    max-width: 200px; /* Reduce width for mobile */
+    bottom: -13%; /* Adjust positioning */
+    left: 28%; /* Adjust for better centering on mobile */
+  }
+
+  .cardvideo h1 {
+    font-size: 5px; /* Smaller text for mobile */
+  }
+}
+
 @-webkit-keyframes updown {
   0%,
   50%,
@@ -889,4 +920,8 @@ borderbat *::after {
 
 .newstext:before {
   left: -60px;
+}
+
+.bg-bodyy {
+  background-color: #131313;
 }
