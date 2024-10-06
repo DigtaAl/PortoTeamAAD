@@ -5,8 +5,8 @@
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center pb-5">
             <span>meet our</span>
-            <h2>Team</h2>
-            <span class="bg-watermark2">Leader</span>
+            <h2>Leader</h2>
+            <span class="bg-watermark2">Team</span>
           </div>
         </div>
         <div class="row mt-2 justify-content-center">
@@ -41,8 +41,8 @@
       <manager style="display: block; margin-bottom: 50px">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center pb-5">
-            <h2>Team</h2>
-            <span class="bg-watermark2">Manager</span>
+            <h2>Manager</h2>
+            <span class="bg-watermark2">Team</span>
             <p>Meet the masterminds behind keeping the team on track and driving us toward victory.</p>
           </div>
         </div>
@@ -102,8 +102,8 @@
       <program style="display: block; margin-bottom: 50px">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center pb-5">
-            <h2>Role</h2>
-            <span class="bg-watermark2">Program</span>
+            <h2>Program</h2>
+            <span class="bg-watermark2">Role</span>
             <p>Meet the minds behind the code, ready to bring ideas to life, one line at a time.</p>
           </div>
         </div>
@@ -289,8 +289,8 @@
       <elektronik style="display: block; margin-bottom: 50px">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center pb-5">
-            <h2>Role</h2>
-            <span class="bg-watermark2">Electrics</span>
+            <h2>Electrics</h2>
+            <span class="bg-watermark2">Role</span>
             <p>Say hello to the powerhouses, they are the spark that keeps our robots alive and thriving.</p>
           </div>
         </div>
@@ -451,8 +451,8 @@
       <mekanik style="display: block; margin-bottom: 50px">
         <div class="row justify-content-center">
           <div class="col-lg-8 text-center pb-5">
-            <h2>Role</h2>
-            <span class="bg-watermark2">Mechanics</span>
+            <h2>Mechanics</h2>
+            <span class="bg-watermark2">Role</span>
             <p>Get ready to meet the muscle, precision, strength, and innovation all in one.</p>
           </div>
         </div>
@@ -648,17 +648,26 @@ section .bg-watermark {
   letter-spacing: 0.5rem;
   margin-top: -5.5rem;
 }
+
 section .bg-watermark2 {
   color: #1f1f1f;
-  font-size: clamp(6rem, 1.3333rem + 10.9333vw, 20rem);
+  font-size: clamp(6rem, 1.3333rem + 10.9333vw, 20rem); /* Default size for larger screens */
   font-weight: 800;
   position: absolute;
   z-index: -1;
   left: 50%;
-  transform: translatex(-50%) translatey(-15%);
+  transform: translateX(-50%) translateY(-15%);
   user-select: none;
   letter-spacing: 0.5rem;
   margin-top: -5.5rem;
+}
+
+/* Adjust font size for mobile screens */
+@media (max-width: 768px) {
+  section .bg-watermark2 {
+    font-size: 3.3rem; /* Adjust this value as needed */
+    margin-top: -3rem; /* Adjust margin if necessary */
+  }
 }
 
 section span {

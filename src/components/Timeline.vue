@@ -7,8 +7,8 @@
             <h3 class="date">1 - 6th July, 2024</h3>
             <h1>KRI 2024 (Nasional)</h1>
             <p>
-              Acara ini diadakan secara offline di Universitas Muhammadiyah Surakarta, dan tim berhasil meraih juara 2 tingkat nasional dalam kompetisi tersebut. Informasi lebih lanjut dapat dilihat
-              <router-link :to="{ name: 'History', params: { year: '2024' } }">di sini</router-link>.
+              Acara ini diadakan secara offline di Universitas Muhammadiyah Surakarta, dan tim berhasil meraih juara 2 tingkat nasional dalam kompetisi tersebut.
+              <!-- <router-link :to="{ name: 'History', params: { year: '2024' } }">di sini</router-link>. -->
             </p>
             <img src="./../assets/images/AAD.jpg" alt="KRI 2024 (Nasional)" />
           </div>
@@ -17,7 +17,7 @@
           <div class="timeline-content">
             <h3 class="date">28th may - 1st June, 2024</h3>
             <h1>KRI 2024 ( Regional )</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
+            <p>Acara ini diadakan secara online di Universitas Muhammadiyah Surakarta, dan tim berhasil meraih juara 1 tingkat regional I dalam kompetisi tersebut.</p>
             <img src="./../assets/images/AAD.jpg" alt="KRI 2024 (Regional)" />
           </div>
         </li>
@@ -25,7 +25,7 @@
           <div class="timeline-content">
             <h3 class="date">22 - 25th june, 2023</h3>
             <h1>KRI 2023 ( Nasional )</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
+            <p>Acara ini diadakan secara offline di Universitas Semarang, dan tim berhasil meraih juara 3 tingkat nasional dalam kompetisi tersebut.</p>
             <img src="./../assets/images/AAD.jpg" alt="KRI 2023 (Nasional)" />
           </div>
         </li>
@@ -33,15 +33,8 @@
           <div class="timeline-content">
             <h3 class="date">28 - 31 may, 2023</h3>
             <h1>KRI 2023 ( Regional )</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
+            <p>Acara ini diadakan secara online di Universitas Semarang, dan tim berhasil meraih juara 1 tingkat regional I dalam kompetisi tersebut.</p>
             <img src="./../assets/images/AAD.jpg" alt="KRI 2023 (Regional)" />
-          </div>
-        </li>
-        <li>
-          <div class="timeline-content">
-            <h3 class="date">3 - 8th july, 2024</h3>
-            <h1>Heading 5</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur tempora ab laudantium voluptatibus aut eos placeat laborum, quibusdam exercitationem labore.</p>
           </div>
         </li>
       </ul>

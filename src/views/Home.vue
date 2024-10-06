@@ -42,7 +42,18 @@ export default {
     News,
   },
   mounted() {
-    AOS.refresh();
+    AOS.init(); // Initialize AOS
+    AOS.refresh(); // Refresh AOS
   },
 };
 </script>
+
+<style>
+/* Optionally, add styles to manage the initial visibility of elements */
+[data-aos] {
+  opacity: 0; /* Start invisible */
+}
+[data-aos].aos-animate {
+  opacity: 1; /* Fade in when animated */
+}
+</style>
