@@ -1,4 +1,4 @@
-# default
+# Al-'Aadiyaat
 
 ## Project setup
 ```
